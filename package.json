@@ -1,0 +1,8 @@
+{
+     "name": "sass-demo",
+     "version": "0.0.2",
+     "devDependencies": {
+          "grunt": "^1.6.1",
+          "grunt-contrib-sass": "^2.0.0"
+     }
+}
